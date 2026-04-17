@@ -16,8 +16,8 @@ html:`
 <div class="songCard">
 <img class="cover" src="src/pict.jpg">
 <div class="songInfo">
-<div>Mystery of Love</div>
-<div style="font-size:12px;opacity:.7;margin-bottom:10px">Sufjan Stevens</div>
+<div>K</div>
+<div style="font-size:12px;opacity:.7;margin-bottom:10px">Mac Demarco</div>
 
 <div class="player">
 <div class="topRow">
@@ -50,14 +50,14 @@ html:`
 <img src="src/3.jpg" class="filmPic">
 <img src="src/4.jpg" class="filmPic">
 <img src="src/5.jpg" class="filmPic">
-<img src="src/pict.jpg" class="filmPic">
+<img src="src/6.jpg" class="filmPic">
 
 <img src="src/1.jpg" class="filmPic">
 <img src="src/2.jpg" class="filmPic">
 <img src="src/3.jpg" class="filmPic">
 <img src="src/4.jpg" class="filmPic">
 <img src="src/5.jpg" class="filmPic">
-<img src="src/pict.jpg" class="filmPic">
+<img src="src/6.jpg" class="filmPic">
 
 </div>
 </div>
@@ -109,16 +109,18 @@ html:`
 
 <span class="signal">TRANSMISSION START</span><br><br>
 
-TRANSMISSION START
+Happy 2 Months, love.
 
-Sometimes I wonder if you notice how softly you exist inside my universe. Sometimes I wonder if you notice how softly you exist inside my universe.
-Sometimes I wonder if you notice how softly you exist inside my universe.
+It has only been two months, yet somehow you have made such a beautiful place in my heart. In this short time, you turned simple days into something special and gave me memories I never knew I needed.
 
-Sometimes I wonder if you notice how softly you exist inside my universe. Not loud. Not chaotic.
+Thank you for every laugh, every conversation, every little moment that made me smile. Being with you feels easy, warm, and real, like finding peace in the middle of a busy world.
 
-But like late night radio waves that stay playing even when the world sleeps.
+Two months down, and I still find myself choosing you in every way. If this is only the beginning, then I’m excited for everything that is still waiting for us ahead.
 
-END SIGNAL
+Happy two months, my favorite person.
+You are one of the best things life has given me.
+
+
 <span class="signal">END SIGNAL</span>
 
 </div>
